@@ -1,0 +1,3 @@
+tg-bot:
+  username: ${TG_BOT_USERNAME}
+  token: ${TG_BOT_TOKEN}
